@@ -1,4 +1,2 @@
-# react-starter
-### Basic react starter project - includes gulp task automation and very basic react skeleton
-### bower install && npm install to install dependencies
-### gulp to run
+# react-flux
+### Basic react flux demo implented using custom Event / Dispatcher services.
